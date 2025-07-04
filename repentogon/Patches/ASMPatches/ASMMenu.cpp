@@ -106,6 +106,6 @@ void ASMPatchDailySelection() {
 }
 
 void ASMPatchOnlineMenu() {
-	ASMPatchOnlineSelection();
+	// ASMPatchOnlineSelection();
 	ASMPatchDailySelection();
 }
